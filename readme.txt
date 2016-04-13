@@ -5,3 +5,4 @@ Git tracks changes of files
 Creating a new branch is quick AND simple
 Change the readme to test the new function
 Add a line to checkout the new branch "Destiny"
+Test bug checkout
